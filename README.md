@@ -1,3 +1,5 @@
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=polsegu11&label=Profile%20views&color=0e75b6&style=flat" alt="polsegu11" /> </p>
+
 # RTS 1.00 Project
 
 ![IMG_20170720_144128_466](https://i.postimg.cc/QxvMCBZx/unity-rts-1-00.jpg)
